@@ -3,8 +3,8 @@ Status Updates:
 12/11/23
   - Worked on Jupyter notebook over the weekend.
   - Jupyter notebook is completed, working on ERD and SQL tables and importing CSV files into VS code (checking/verifying table/column creation).
-    - Had some issues importing CSV files.
-  - Was able to complete project. 
+    - Had some issues importing CSV files. Fixed with changing all INT to FLOATS and increasing the values in VARCHAR
+  - 
   
 12/12/23
-  - Finished project on Monday night.
+  - Finish the project tomorrow night.
